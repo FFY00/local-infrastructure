@@ -1,0 +1,9 @@
+---
+
+users:
+  anubis:
+    name: 'Filipe Laíns'
+    ssh_key: ffy00.pub
+    groups:
+      - admin
+      - user
