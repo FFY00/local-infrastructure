@@ -1,0 +1,11 @@
+# Desktop
+[genesis]
+genesis.local
+
+# Main laptop
+[saetre]
+satre.local
+
+# Secondary laptop
+[centaurus]
+centaurus.local
